@@ -1,7 +1,6 @@
 /*
-Write a Java program to display greetings message for a user. Take the username as
-input at run time. Define a method public void greet (String name) to perform the
-operation.
+Write a Java program to display greetings messages for a user. Take the username as
+input at run time. Define a method of public void greet (String name) to operate.
 */
 
 import java.util.Scanner;
